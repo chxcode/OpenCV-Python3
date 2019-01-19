@@ -22,3 +22,5 @@ OpenCV For Python3 中文手册，在原英文文档翻译的基础上在易错�
 [九、Changing Colorspaces颜色空间转换](https://blog.csdn.net/vcx08/article/details/79096673)
 
 [十、图像阈值](https://blog.csdn.net/vcx08/article/details/82692815)
+
+[十一、Geometric Transformations of Images 图像的几何变换](https://blog.csdn.net/vcx08/article/details/86552518)
