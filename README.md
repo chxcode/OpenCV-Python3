@@ -1,7 +1,7 @@
 # OpenCV-Python3
 OpenCV For Python3 中文手册，在原英文文档翻译的基础上在易错，不易懂得的地方加有说明或者举了个栗子。
 
-[CSDN博客专栏](https://blog.csdn.net/column/details/18785.html)
+[CSDN博客专栏](https://blog.csdn.net/vcx08/article/category/9271357)
 
 [一、Getting Started with Images开始使用图片](https://blog.csdn.net/vcx08/article/details/78994313)
 
